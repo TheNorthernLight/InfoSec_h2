@@ -69,7 +69,13 @@ Overall, the Black Duck Eggs episode of Darknet Diaries is provide a thought-pro
 
 + Pick a CVE, and briefly explain it & why it matters
 
+A Common Vulnerability and Exposure (CVE) is a unique identifier assigned to a publicly disclosed cybersecurity vulnerability. 
 
+CVE-2020-0796 is a vulnerability in Microsoft Windows 10 and Windows Server versions that could allow an attacker to execute arbitrary code on affected systems. The vulnerability was caused by a flaw in the way the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handled certain requests, which could allow an attacker to send a specially crafted packet to a vulnerable system and execute arbitrary code.
+
+This vulnerability is important because it could allow an attacker to take control of affected systems and steal sensitive information. Additionally, the vulnerability was considered "wormable," meaning that it could be used to spread malware from one affected system to another without any user interaction.
+
+Organizations and individuals using Microsoft Windows 10 and Windows Server versions were advised to apply the appropriate security updates as soon as possible to address the vulnerability and reduce the risk of attack. This is why the importance of regularly updating software and applying security patches could help in eliminating the known vulnerabilities.
 
 
 
