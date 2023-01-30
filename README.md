@@ -6,15 +6,15 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 
 Security Misconfiguration is a vulnerability that occurs when security settings on systems and applications are not properly configured, allowing unauthorized access to sensitive information. The most common causes of security misconfigurations are:
 
-      - Default configurations: Applications and systems often come with default configurations that are not secure.
+   - Default configurations: Applications and systems often come with default configurations that are not secure.
 
-      - Incorrect configurations: Misconfigurations can occur when changes are made to the system or application without fully understanding the implications of the changes.
+   - Incorrect configurations: Misconfigurations can occur when changes are made to the system or application without fully understanding the implications of the changes.
 
-      - Incomplete configurations: Some systems or applications may not be fully configured, leaving certain security settings incomplete.
+   - Incomplete configurations: Some systems or applications may not be fully configured, leaving certain security settings incomplete.
 
-      - Outdated configurations: Systems and applications can become vulnerable over time if security configurations are not kept up to date.
+   - Outdated configurations: Systems and applications can become vulnerable over time if security configurations are not kept up to date.
 
-      - Lack of maintenance: Security configurations may deteriorate over time due to a lack of maintenance and regular security checks.
+   - Lack of maintenance: Security configurations may deteriorate over time due to a lack of maintenance and regular security checks.
 
 It is important to properly configure systems and applications to minimize the risk of security misconfigurations. The best implemention practices would be regularly checking for misconfigurations, and maintaining up-to-date security configurations.
 
