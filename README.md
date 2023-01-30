@@ -2,7 +2,7 @@
 
 x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
 + OWASP: OWASP 10 2021
-    #* A05:2021-Security Misconfiguration
+    *A05:2021-Security Misconfiguration
 
 Security Misconfiguration is a vulnerability that occurs when security settings on systems and applications are not properly configured, allowing unauthorized access to sensitive information. The most common causes of security misconfigurations are:
 
