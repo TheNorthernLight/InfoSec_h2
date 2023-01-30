@@ -35,6 +35,11 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 ### m) Voluntary bonus: Pick your tasks from SQLZoo 1, 3-9.
 
 
+![Action Matrix Model](9.JPG)
+![Action Matrix Model](10.JPG)
+![Action Matrix Model](11.JPG)
+![Action Matrix Model](12.JPG)
+![Action Matrix Model](13.JPG)
 
 
 ### n) Voluntary difficult bonus: WebGoat: SQL Injection (advanced).
