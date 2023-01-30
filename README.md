@@ -14,13 +14,21 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 
 ### a) Sequel. Solve SQLZoo:
 * 0 SELECT basics
+
+![Action Matrix Model](1.JPG)
+
 * 2 SELECT from World, from first subtask to 5 "France, Germany, Italy"
 
-
+![Action Matrix Model](2.JPG)
+![Action Matrix Model](3.JPG)
+![Action Matrix Model](4.JPG)
+![Action Matrix Model](5.JPG)
+![Action Matrix Model](6.JPG)
 
 ### b) Injected. Solve WebGoat:
 * A1 Injection (intro)
 
+![Action Matrix Model](8.JPG)
 
 
 
@@ -31,6 +39,7 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 
 ### n) Voluntary difficult bonus: WebGoat: SQL Injection (advanced).
 
+![Action Matrix Model](7.JPG)
 
 
 
