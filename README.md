@@ -101,7 +101,7 @@ Organizations and individuals using Microsoft Windows 10 and Windows Server vers
 
 ### m) Voluntary bonus: Pick your tasks from SQLZoo 1, 3-9.
 
-* Select from Nobel
+* 3 Select from Nobel
 
 ![Action Matrix Model](9.JPG)
 ![Action Matrix Model](10.JPG)
