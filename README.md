@@ -51,7 +51,20 @@ To prevent injection attacks, it is important to validate user input and sanitiz
     
    4) Any episode from Darknet Diaries.
 
+Black Duck Eggs is a podcast episode from Darknet Diaries, a podcast series that covers the stories of hackers, breaches, and technology. The specific episode of Black Duck Eggs is focused on security vulnerabilities in software applications, also known as "black ducks."
 
+Black ducks is a security vulnerabilities in software that are unknown or have not been discovered by the security community and developers. These vulnerabilities can be exploited by attackers to compromise systems and steal sensitive information. The podcast telling about the real-life examples of black duck exploits, the motivations of attackers, and the steps organizations can take to reduce the risk of these types of vulnerabilities. From the podcast I got the information about:
+
+- Black duck vulnerabilities in software applications
+- Real-life examples of black duck exploits and their impacts on system
+- The motivations of attackers and their methods for discovering and exploiting black duck vulnerabilities
+- The importance of regular security assessments and testing to identify and address black duck vulnerabilities
+- Best practices for reducing the risk of black duck vulnerabilities. 
+- The importance of regularly updating software components and libraries, validating user input, and implementing proper input validation and output escaping.
+- The current situation of software security and the challenges faced by organizations in protecting against black duck vulnerabilities.
+
+
+Overall, the Black Duck Eggs episode of Darknet Diaries is provide a thought-provoking and informative look into the world of software security and the risks associated with black duck vulnerabilities.
 
 
 + Pick a CVE, and briefly explain it & why it matters
