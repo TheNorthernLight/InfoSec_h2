@@ -50,3 +50,6 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 * https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 * https://owasp.org/Top10/A03_2021-Injection/
 * https://darknetdiaries.com/
+* https://cvetrends.com/
+* https://cve.mitre.org/
+* https://news.ycombinator.com/
