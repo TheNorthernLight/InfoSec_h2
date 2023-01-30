@@ -2,7 +2,22 @@
 
 x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
 + OWASP: OWASP 10 2021
-  - A05:2021-Security Misconfiguration
+    * A05:2021-Security Misconfiguration
+
+Security Misconfiguration is a vulnerability that occurs when security settings on systems and applications are not properly configured, allowing unauthorized access to sensitive information. The most common causes of security misconfigurations are:
+
+      - Default configurations: Applications and systems often come with default configurations that are not secure.
+
+      - Incorrect configurations: Misconfigurations can occur when changes are made to the system or application without fully understanding the implications of the changes.
+
+      - Incomplete configurations: Some systems or applications may not be fully configured, leaving certain security settings incomplete.
+
+      - Outdated configurations: Systems and applications can become vulnerable over time if security configurations are not kept up to date.
+
+      - Lack of maintenance: Security configurations may deteriorate over time due to a lack of maintenance and regular security checks.
+
+It is important to properly configure systems and applications to minimize the risk of security misconfigurations. The best implemention practices would be regularly checking for misconfigurations, and maintaining up-to-date security configurations.
+
     * A06:2021-Vulnerable and Outdated Components
     * A03:2021-Injection
     * Any episode from Darknet Diaries.
