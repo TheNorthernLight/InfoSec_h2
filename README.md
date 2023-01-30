@@ -2,7 +2,7 @@
 
 x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
 + OWASP: OWASP 10 2021
-    *A05:2021-Security Misconfiguration
+    1) A05:2021-Security Misconfiguration
 
 Security Misconfiguration is a vulnerability that occurs when security settings on systems and applications are not properly configured, allowing unauthorized access to sensitive information. The most common causes of security misconfigurations are:
 
@@ -19,7 +19,7 @@ Security Misconfiguration is a vulnerability that occurs when security settings 
 It is important to properly configure systems and applications to minimize the risk of security misconfigurations. The best implemention practices would be regularly checking for misconfigurations, and maintaining up-to-date security configurations.
 
 
-   * A06:2021-Vulnerable and Outdated Components
+   2) A06:2021-Vulnerable and Outdated Components
     
 Vulnerable and outdated components refer to software libraries, frameworks, and other components used in the development of software applications that have known security vulnerabilities. Those components may become obsolete and no longer receive security updates, leaving the applications that use them vulnerable to attack.
 
@@ -34,7 +34,7 @@ This can include:
 It is very important to regularly check for and update vulnerable and outdated components in software applications to minimize the risk of security vulnerabilities. This would include regularly checks for security updates, implementing a software composition analysis tool, and conducting regular security assessments.
     
     
-   * A03:2021-Injection
+   3) A03:2021-Injection
     
 Injection is a type of security vulnerability that occurs when an attacker is able to inject malicious code into an application or system. This method allows the attacker to take control of the affected system or steal sensitive information. Some common types of injection attacks include:
 
@@ -49,7 +49,7 @@ Injection is a type of security vulnerability that occurs when an attacker is ab
 To prevent injection attacks, it is important to validate user input and sanitize any user-supplied data before using it in an application or system. To exclude and minimize those risks we can use the proper input validation and output escaping, using parameterized queries, and regularly updating software components and libraries.
     
     
-   * Any episode from Darknet Diaries.
+   4) Any episode from Darknet Diaries.
 
 
 
