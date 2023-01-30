@@ -1,4 +1,5 @@
 # InfoSec_h2
+
 x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
 + OWASP: OWASP 10 2021
   - A05:2021-Security Misconfiguration
@@ -6,6 +7,7 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
     * A03:2021-Injection
     * Any episode from Darknet Diaries.
 + Pick a CVE, and briefly explain it & why it matters
+
 
 
 
