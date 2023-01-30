@@ -6,21 +6,54 @@ x) Read and summarize (This subtask x does not require tests with a computer. So
 
 Security Misconfiguration is a vulnerability that occurs when security settings on systems and applications are not properly configured, allowing unauthorized access to sensitive information. The most common causes of security misconfigurations are:
 
-   - Default configurations: Applications and systems often come with default configurations that are not secure.
+   - Applications and systems often come with default configurations that are not secure.
 
-   - Incorrect configurations: Misconfigurations can occur when changes are made to the system or application without fully understanding the implications of the changes.
+   - Misconfigurations can occur when changes are made to the system or application without fully understanding the implications of the changes.
 
-   - Incomplete configurations: Some systems or applications may not be fully configured, leaving certain security settings incomplete.
+   - Incomplete configurations, Some systems or applications may not be fully configured, leaving certain security settings incomplete.
 
-   - Outdated configurations: Systems and applications can become vulnerable over time if security configurations are not kept up to date.
+   - Systems and applications can become vulnerable over time if security configurations are not kept up to date.
 
-   - Lack of maintenance: Security configurations may deteriorate over time due to a lack of maintenance and regular security checks.
+   - Security configurations may deteriorate over time due to a lack of maintenance and regular security checks.
 
 It is important to properly configure systems and applications to minimize the risk of security misconfigurations. The best implemention practices would be regularly checking for misconfigurations, and maintaining up-to-date security configurations.
 
-    * A06:2021-Vulnerable and Outdated Components
-    * A03:2021-Injection
-    * Any episode from Darknet Diaries.
+
+   * A06:2021-Vulnerable and Outdated Components
+    
+Vulnerable and outdated components refer to software libraries, frameworks, and other components used in the development of software applications that have known security vulnerabilities. Those components may become obsolete and no longer receive security updates, leaving the applications that use them vulnerable to attack.
+
+This can include:
+
+   - Libraries used in software development may have vulnerabilities that have been discovered and fixed in newer versions, but the applications using these libraries      may not have been updated to use the newer versions.
+
+   - Frameworks used in software development may have vulnerabilities that have been discovered and fixed, but the applications using these frameworks may not have          been patched to address the vulnerabilities.
+
+   - Deprecated components, this may become deprecated and no longer receive security updates, making them vulnerable to attack.
+    
+It is very important to regularly check for and update vulnerable and outdated components in software applications to minimize the risk of security vulnerabilities. This would include regularly checks for security updates, implementing a software composition analysis tool, and conducting regular security assessments.
+    
+    
+   * A03:2021-Injection
+    
+Injection is a type of security vulnerability that occurs when an attacker is able to inject malicious code into an application or system. This method allows the attacker to take control of the affected system or steal sensitive information. Some common types of injection attacks include:
+
+   - The most common SQL Injection. An attacker injects malicious SQL code into an application that interacts with a database, allowing the attacker to manipulate the      database or steal sensitive information.
+
+   - Next one is command Injection. When attacker injects malicious code into an application that uses system commands, allowing the attacker to execute arbitrary code      on the affected system.
+
+   - Cross-Site Scripting (XSS) is used to injects malicious JavaScript code into a web application, allowing the attacker to steal sensitive information or perform        other malicious actions.
+
+   - The Remote Code Injection method which is allowing the attacker to take control of the remote system.
+
+To prevent injection attacks, it is important to validate user input and sanitize any user-supplied data before using it in an application or system. To exclude and minimize those risks we can use the proper input validation and output escaping, using parameterized queries, and regularly updating software components and libraries.
+    
+    
+   * Any episode from Darknet Diaries.
+
+
+
+
 + Pick a CVE, and briefly explain it & why it matters
 
 
